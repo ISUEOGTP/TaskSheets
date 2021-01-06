@@ -1,7 +1,8 @@
 # XYZ Tile Connections for QGIS
 #### Last updated: 1/5/2021
 
-The following XYZ connections have been tested with QGIS version 3.10 and do not require a plugin to add to a QGIS Project. If you know of other XYZ connections that should be added to this list, please email <geospatial@iastate.edu>.
+The following XYZ connections have been tested with QGIS version 3.10 and do not require a plugin to add to a QGIS Project. 
+If you know of other XYZ connections that should be added to this list, please email <geospatial@iastate.edu>.
 
 1. **Esri Antarctic Imagery Polar** [https://server.arcgisonline.com/arcgis/rest/services/Polar/Antarctic_Imagery/MapServer/tile/{z}/{y}/{x}](https://server.arcgisonline.com/arcgis/rest/services/Polar/Antarctic_Imagery/MapServer/tile/{z}/{y}/{x})
 1. **Esri Arctic Imagery Polar** [https://server.arcgisonline.com/arcgis/rest/services/Polar/Arctic_Imagery/MapServer/tile/{z}/{y}/{x}](https://server.arcgisonline.com/arcgis/rest/services/Polar/Arctic_Imagery/MapServer/tile/{z}/{y}/{x})
